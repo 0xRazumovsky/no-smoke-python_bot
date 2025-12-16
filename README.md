@@ -18,6 +18,5 @@ Smoke‑Free Buddy is a tiny Telegram bot that sends supportive messages to help
 
 ## Notes
 
-- The included Dockerfile expects the bot entrypoint to be `bot.py`; rename `src/main.py` or tweak the COPY/CMD lines if you prefer container deployment.
 - Keep the token private; never commit real credentials.
 - Messages are in Russian—adjust `MESSAGES` and `THOUGHT_BUTTON` in `src/main.py` if you want another language.
