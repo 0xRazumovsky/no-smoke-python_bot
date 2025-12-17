@@ -1,5 +1,7 @@
 Smoke‑Free Buddy is a tiny Telegram bot that sends supportive messages to help quit smoking. It is written with aiogram 3 and designed to run as a webhook handler (e.g., AWS Lambda).
 
+Deployed in Telegram: @no_tobacco_bot
+
 **Response in Russian only**
 
 ## What it does
